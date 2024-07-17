@@ -1,6 +1,6 @@
 # Bond Rotation Strategy Using TLT and SPY
 
-![Bond-Rotation](Bond Rotation/Bond Rotation Strategy Portfolio plot.png)
+![Bond Rotation](Bond Rotation/Bond Rotation Strategy Portfolio plot.png)
 
 ## Summary
 
